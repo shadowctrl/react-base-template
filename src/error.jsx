@@ -1,7 +1,7 @@
 import React from "react";
 
-const error = () => {
+const Error = () => {
   return <div>site requested not found</div>;
 };
 
-export default error;
+export default Error;
